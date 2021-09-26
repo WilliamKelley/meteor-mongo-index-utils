@@ -1,0 +1,30 @@
+{
+  "name": "meteor-mongo-index-utils",
+  "version": "0.0.1",
+  "description": "Simple utilities around MongoDB indexes in the Meteor framework.",
+  "main": "package.js",
+  "scripts": {
+    "test": "meteor test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamKelley/meteor-mongo-index-utils.git"
+  },
+  "keywords": [
+    "meteor",
+    "mongo",
+    "index",
+    "indexes"
+  ],
+  "author": "William Kelley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamKelley/meteor-mongo-index-utils/issues"
+  },
+  "homepage": "https://github.com/WilliamKelley/meteor-mongo-index-utils#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "2.4.1"
+  }
+}
